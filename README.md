@@ -6,7 +6,7 @@ It is developed in Java language.
 
 <br>
 
-## Let's get to know the game
+## Let's get to know the game:
 
 By pressing the user play button, two dice are randomly rolled.
 The images and values ​​of the rolled dice are displayed on the screen.
